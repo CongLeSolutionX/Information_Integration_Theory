@@ -11,7 +11,7 @@ import SwiftUI
 struct Information_Integration_TheoryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            IITOverviewView()
         }
     }
 }
