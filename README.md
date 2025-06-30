@@ -20,10 +20,9 @@ Copyright © 2025 Cong Le. All Rights Reserved.
 	
 ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
 
-The documentation for this project is in underconstruction....
+The documentation for this project is under construction....
 
-
-![WIP](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5ic3l0czltejBxMG9sYm5zdzY0cTE4OWwzeHl1Y2RpNTd5NHJhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhGhED0aSeUUQSfH76/giphy.gif)
+![WIP](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lmN2UzbHE1d3kzNGF6dGloMTdoajNoeWNtemQ3NW1kNnoyN2ZodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7dNAqqlAXYbvSX57O/giphy.gif)
 
 ---
 
